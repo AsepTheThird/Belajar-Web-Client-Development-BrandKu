@@ -6,8 +6,8 @@ const Features = () => {
         <article className="rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
           <div className="bg-blue-400 h-24 rounded-t-xl"></div>
           <div className="bg-white p-6">
-            <h3 className="text-xl font-bold mb-2 text-gray-900">Fitur Pertama</h3>
-            <p className="text-gray-600">Deskripsi fitur pertama kamu di sini...</p>
+            <h3 className="text-xl font-bold mb-2 text-gray-900">Gampang Digunakan</h3>
+            <p className="text-gray-600">Nggak perlu pemahaman yang dalam, cukup liat saja langsung bisa digunakan.</p>
           </div>
         </article>
 
